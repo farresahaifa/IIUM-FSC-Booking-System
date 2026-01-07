@@ -3,7 +3,7 @@
 **Course:** INFO 3307 Web Application Development  
 **Instructor**=  Dr. Najhan Bin Muhamad Ibrahim  
 
-## 📌 Project Overview
+## Project Overview
 The **IIUM FSC Indoor Booking System** is a web-based platform designed to simplify court reservations for IIUM students. It replaces manual booking methods with a real-time digital solution, allowing students to check availability for Badminton, Netball, and Ping Pong courts.
 
 ### Key Features:
@@ -14,7 +14,7 @@ The **IIUM FSC Indoor Booking System** is a web-based platform designed to simpl
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 Since the project is uploaded as a ZIP file, follow these steps to set it up locally:
 
@@ -43,10 +43,4 @@ Since the project is uploaded as a ZIP file, follow these steps to set it up loc
     ```
 * Access the website at: `http://127.0.0.1:8000`
 
----
 
-## 🛠️ Built With
-* **Framework**: Laravel 10
-* **Language**: PHP 8.1
-* **Database**: MySQL
-* **Styling**: Tailwind CSS & Custom CSS
